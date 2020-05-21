@@ -4,6 +4,13 @@ This is a simple app comparing different ways to scope CSS in React components.
 
 # To run
 
+This app uses unpublished packages. Clone these and follow the instructions to link them using `yarn link`.
+
+* [CSS Modules](https://github.com/helendurranttw/css-modules-test)
+* [Emotion](https://github.com/helendurranttw/css-in-js-test)
+
+Then run the app using:
+
 ```
 yarn
 yarn dev
