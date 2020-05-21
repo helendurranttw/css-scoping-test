@@ -19,11 +19,11 @@ yarn dev
 
 <sup>\*</sup> Because we're not sure what order components will be loaded in, unscoped CSS is dangerous to import in an unspecified order. CSS imports will error in the latest version of Next.
 
-# How well did we do?
-
-TODO
-
 # Options considered
 
 - CSS Modules
 - Emotion
+
+# Pros Cons of each
+
+TODO
